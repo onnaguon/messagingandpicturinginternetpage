@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>
-☻☻☻☻☻☻☻☻░▒░▒▓██ Chat place ██▓▒░░☻☻☻☻☻☻☻☻
+Teretulemast
 </title>
 <link rel="icon" style="width:15px; height=15px; background-color: #76FEFF; color: #76FEFF;"/>
 <style>
@@ -11,7 +11,7 @@ color: #76FEFF;
 }
 
 body {
-background-color: lightblue;
+background-color: lightgreen;
 }
 
 .main12 {
@@ -85,7 +85,7 @@ display:block;
 </style>
 </head>
 <body>
-<h1 class="main12" style="line-height: 35px;">☻☻☻☻☻☻☻☻ Welcome ☻☻☻☻☻☻☻☻☻</h1>
+<h1 class="main12" style="line-height: 35px;">Teemad..... </h1>
 <h1 class="main1">
 </h1>
 
@@ -235,7 +235,7 @@ Teema:
 </p>
 <input name="rname"/>
 <p class="w21">
-Parool(kui ei soovi parooli, jäta tühjaks):
+Parool(kui ei soovi parooli, jÃ¤ta tÃ¼hjaks):
 </p>
 <input class="pwd" name="password" type="password"/>
 <p class="w">
@@ -243,8 +243,8 @@ Parool(kui ei soovi parooli, jäta tühjaks):
 <input type="submit" class="main3" value="Loo"/>
 </form>
 <p class="w1" style="color: #j3k4f8; font-weight: bold;">
-Kui on lisatud parool, siis saab sellele ruumile ligi ainult nii, et aadressi lõpp on /index.php?code=Kood</p>
-<p class="w1" style="color: #j3k4f8; font-weight: bold;">Tähelepanu: palun üritage olla viisakad..</p>
+Kui on lisatud parool, siis saab sellele ruumile ligi ainult nii, et aadressi lÃµpp on /index.php?code=Kood</p>
+<p class="w1" style="color: #j3k4f8; font-weight: bold;">TÃ¤helepanu: palun Ã¼ritage olla viisakad..</p>
 <p></p>
 <p></p>
 <p>&nbsp;</p>
@@ -255,7 +255,6 @@ Kui on lisatud parool, siis saab sellele ruumile ligi ainult nii, et aadressi l�
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p class="w1" style="color: #j3k4f8; font-weight: bold;">
-Owner's(Leonardo Da Robam) phone number: 372 6861327
 </p>
 </body>
 </html> 
