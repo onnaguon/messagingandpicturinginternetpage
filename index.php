@@ -2,16 +2,18 @@
 <html>
 <head>
 <title>
-Teretulemast
+Welcome....
 </title>
 <link rel="icon" style="width:15px; height=15px; background-color: #76FEFF; color: #76FEFF;"/>
+
 <style>
 input {
 color: #76FEFF;
 }
 
 body {
-background-color: lightgreen;
+background-image: url("animage.png");
+background-repeat: repeat-y;
 }
 
 .main12 {
@@ -22,16 +24,15 @@ background-color: white;
 border: 1px solid white;
 border-radius: 10px 10px;
 padding: 5px;
-width: 400px;
 font-weight:bold;
 }
 .main1 {
 text-decoration:none;
 color: white;
-border-radius: 5px 5px;
-padding: 5px;
+border-radius: 0px 0px;
+padding: 0px;
 font-weight:bold;
-width:625px;
+width:775px;
 }
 
 .main12 {
@@ -41,14 +42,11 @@ border-radius: 5px 5px;
 padding: 5px;
 font-weight:bold;
 vertical-align: middle;
-width:825px;
-margin-top: -3px;
+width:375px;
 }
 
 .main2 {
 color: white;
-margin-top: -20px;
-
 }
 
 .main3 {
@@ -85,7 +83,8 @@ display:block;
 </style>
 </head>
 <body>
-<h1 class="main12" style="line-height: 35px;">Teemad..... </h1>
+<p></p>
+<h1 class="main12" style="line-height: 35px;">Meeting place</h1>
 <h1 class="main1">
 </h1>
 
@@ -235,7 +234,7 @@ Teema:
 </p>
 <input name="rname"/>
 <p class="w21">
-Parool(kui ei soovi parooli, jÃ¤ta tÃ¼hjaks):
+Parool(kui ei soovi parooli, jäta tühjaks):
 </p>
 <input class="pwd" name="password" type="password"/>
 <p class="w">
@@ -243,8 +242,8 @@ Parool(kui ei soovi parooli, jÃ¤ta tÃ¼hjaks):
 <input type="submit" class="main3" value="Loo"/>
 </form>
 <p class="w1" style="color: #j3k4f8; font-weight: bold;">
-Kui on lisatud parool, siis saab sellele ruumile ligi ainult nii, et aadressi lÃµpp on /index.php?code=Kood</p>
-<p class="w1" style="color: #j3k4f8; font-weight: bold;">TÃ¤helepanu: palun Ã¼ritage olla viisakad..</p>
+Kui on lisatud parool, siis saab sellele ruumile ligi ainult nii, et aadressi lõpp on /index.php?code=Kood</p>
+<p class="w1" style="color: #j3k4f8; font-weight: bold;">Tähelepanu: palun üritage olla viisakad..</p>
 <p></p>
 <p></p>
 <p>&nbsp;</p>
@@ -254,7 +253,10 @@ Kui on lisatud parool, siis saab sellele ruumile ligi ainult nii, et aadressi l�
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p class="w1" style="color: #j3k4f8; font-weight: bold;">
+<p class="w1">Kontakt</p>
+<p class="w1">
+Telefon: 372 6861327
 </p>
+
 </body>
-</html> 
+</html>
