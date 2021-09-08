@@ -13,7 +13,7 @@ color: #76FEFF;
 
 body {
 background-image: url("animage.png");
-background-repeat: repeat-y;
+background-repeat: repeat;
 }
 
 .main12 {
